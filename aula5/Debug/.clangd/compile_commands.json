@@ -1,12 +1,12 @@
 [
    {
-      "directory" : "C:/Users/arnon/workspace_sismic/aula5/Debug",
-      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/msp430/include\" -I\"C:/Users/arnon/workspace_sismic/aula5\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
-      "file"      : "C:/Users/arnon/workspace_sismic/aula5/aula5.asm"
+      "directory" : "C:/Users/arnon/exercicios_lab_asm/aula5/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/msp430/include\" -I\"C:/Users/arnon/exercicios_lab_asm/aula5\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/arnon/exercicios_lab_asm/aula5/aula5.asm"
    },
    {
-      "directory" : "C:/Users/arnon/workspace_sismic/aula5/Debug",
-      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/msp430/include\" -I\"C:/Users/arnon/workspace_sismic/aula5\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
-      "file"      : "C:/Users/arnon/workspace_sismic/aula5/mult.asm"
+      "directory" : "C:/Users/arnon/exercicios_lab_asm/aula5/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/msp430/include\" -I\"C:/Users/arnon/exercicios_lab_asm/aula5\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/arnon/exercicios_lab_asm/aula5/mult.asm"
    }
 ]
