@@ -1,7 +1,0 @@
-[
-   {
-      "directory" : "C:/Users/arnon/exercicios_lab_asm/TESTE/Debug",
-      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/msp430/include\" -I\"C:/Users/arnon/exercicios_lab_asm/TESTE\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
-      "file"      : "C:/Users/arnon/exercicios_lab_asm/TESTE/main.asm"
-   }
-]

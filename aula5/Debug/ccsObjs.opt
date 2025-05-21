@@ -1,5 +1,0 @@
-"./aula5.obj"
-"./mult.obj"
-"../_linker.cmd"
--llibmath.a
--llibc.a
